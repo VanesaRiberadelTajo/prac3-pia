@@ -1,0 +1,11 @@
+he tenido que instalar el módulo matplotlib
+he tenido que instalar el módulo pandas
+he tenido que instalar el módulo seaborn
+he tenido que instalar el módulo keras
+he tenido que instalar el módulo tensorflow
+...
+
+No se ha podido instalar google.colab de modo que he descargado el archivo csv y lo he 
+ubicado en la carpeta datasets en la raiz de la carpeta del proyecto.
+
+
